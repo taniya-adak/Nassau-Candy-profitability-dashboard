@@ -30,4 +30,4 @@ A product profitability analysis for a candy distributor, built as part of the U
 Power BI Desktop · DAX · Power Query
 
 ## Author
-Taniya Adak — Unified Mentor Data Analytics Program
+Taniya Adak 
